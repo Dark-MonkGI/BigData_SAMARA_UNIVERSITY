@@ -4,11 +4,7 @@
 [Samara University](https://ssau.ru/) <br/>
 BigData-2021
 ## Лабораторные работы по курсу "BigData".
-### Выполненно студентами: <br/>
-Griaznov Ilia <br/>
-Troshkin Kirill <br/>
-Muzyka Artyom <br/>
-
+### Студент: Griaznov Ilia
 ### Группа: "6131-010402D"
 ### [Task List](https://github.com/Dark-MonkGI/BigData_SAMARA_UNIVERSITY/tree/main/Task%20Laboratory-work)<br/>
 
