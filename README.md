@@ -6,7 +6,7 @@ BigData-2021
 ## Лабораторные работы по курсу "BigData".
 ### Студент: Griaznov Ilia
 ### Группа: "6131-010402D"
-### [Task List](https://github.com/Dark-MonkGI/BigData_SAMARA_UNIVERSITY/tree/main/Task%20Laboratory-work)<br/>
+### [Task Sheet](https://github.com/Dark-MonkGI/BigData_SAMARA_UNIVERSITY/tree/main/Task%20Laboratory-work)<br/>
 
 
 ### 1. [Introduction to Apache Spark](https://github.com/Dark-MonkGI/BigData_SAMARA_UNIVERSITY/tree/main/L1%20-%20Introduction%20to%20Apache%20Spark)
